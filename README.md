@@ -1,10 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Nextjs + Tailwind Css + ESLint + husky Starter Template
+
+This is a Nextjs & TailwindCSS template with all the dependencies already set up and ready to go for development.
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
+npm install
+# and
 npm run dev
 # or
 yarn dev
