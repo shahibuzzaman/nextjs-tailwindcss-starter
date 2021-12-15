@@ -8,8 +8,12 @@ This is a Nextjs & TailwindCSS template with all the dependencies already set up
 - tailwindcss (A utility-first CSS framework.)
 - postcss (Transform CSS with the power of JavaScript.)
 - autoprefixer (PostCSS plugin to parse CSS and add vendor prefixes to CSS rules.)
+- prettier (An opinionated code formatter.)
 - ESLint (ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code, with the goal of making code more consistent and avoiding bugs.)
 - eslint-config-google (ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for the [Google JavaScript style guide (ES2015+ version)](https://google.github.io/styleguide/jsguide.html))
+- eslint-config-prettier (Turns off all rules that are unnecessary or might conflict with Prettier.)
+- eslint-plugin-react (React specific linting rules for eslint.)
+- husky (husky is a tool that allows us to run script before commit / before push into git, using husky and lint-staged we can create a script to check / force fix any code using ESLint.)
 
 ## Getting Started
 
