@@ -20,11 +20,10 @@ This is a Nextjs & TailwindCSS template with all the dependencies already set up
 First, install dependencies & run the development server:
 
 ```bash
-npm install
-# and
-npm run dev
+npm install && npm run dev
+
 # or
-yarn dev
+yarn install && yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
