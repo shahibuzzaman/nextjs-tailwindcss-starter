@@ -2,6 +2,15 @@
 
 This is a Nextjs & TailwindCSS template with all the dependencies already set up and ready to go for development.
 
+**Modules and libraries pre-installed in this template**:
+- nextjs (Reactjs framework)
+- react (Js library. Comes with NextJs)
+- tailwindcss (A utility-first CSS framework.)
+- postcss (Transform CSS with the power of JavaScript.)
+- autoprefixer (PostCSS plugin to parse CSS and add vendor prefixes to CSS rules.)
+- ESLint (ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code, with the goal of making code more consistent and avoiding bugs.)
+- eslint-config-google (ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for the [Google JavaScript style guide (ES2015+ version)](https://google.github.io/styleguide/jsguide.html))
+
 ## Getting Started
 
 First, run the development server:
