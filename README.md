@@ -17,7 +17,7 @@ This is a Nextjs & TailwindCSS template with all the dependencies already set up
 
 ## Getting Started
 
-First, run the development server:
+First, install dependencies & run the development server:
 
 ```bash
 npm install
